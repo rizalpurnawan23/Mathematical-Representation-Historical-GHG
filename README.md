@@ -1,5 +1,10 @@
-# My-Research-Projects
-This repository contains materials related to my research projects.
+# **A Mathematical Representation of Historical Greenhouse Gas Emissions with Rigorous Insights**
 
-## Current Projects
-1. [A Mathematical Representation of Historical Greenhouse Gas Emissions with Rigorous Insights](/Mathematical-Representation-of-Historical-GHG)
+This directory contains the materials of my research paper entitled **A Mathematical
+Representation of Historical Greenhouse Gas Emissions with Rigorous Insights**. The files
+hosted in this directory are as follows:
+1. A [Python script](/greenhouse_emission.py)
+   containing the algorithmic implementation of the theory in the paper.
+2. An [IPython file](/math_rep_historical_ghg.ipynb)
+   containing the computation of the historical greenhouse gas emission analysis
+   implementing the theory in the paper and the algorithmic implementation.
