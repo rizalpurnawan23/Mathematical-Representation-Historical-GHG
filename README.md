@@ -1,5 +1,7 @@
 # **A Mathematical Representation of Historical Greenhouse Gas Emissions with Rigorous Insights**
 
+[![DOI](https://zenodo.org/badge/761810113.svg)](https://zenodo.org/doi/10.5281/zenodo.10695902)
+
 This directory contains the materials of my research paper entitled **A Mathematical
 Representation of Historical Greenhouse Gas Emissions with Rigorous Insights**. The files
 hosted in this directory are as follows:
